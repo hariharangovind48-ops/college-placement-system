@@ -1,0 +1,8 @@
+{
+  "name": "Info Institute Placement Hub",
+  "description": "Comprehensive campus placement application for Info Institute students with job listings, eligibility checks, T&P announcements, interview schedules, aptitude practice, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
